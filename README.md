@@ -9,8 +9,8 @@ Also see the file Computer_Vision.pdf for deep understanding of the task.
 
 ### Preprocessing
 ![Picture1](https://github.com/KAKADIYAS/House-roof-area-prediction/assets/97363259/6e937ffc-fd47-4687-8c51-9d411bb895fd)
+![Picture2](https://github.com/KAKADIYAS/House-roof-area-prediction/assets/97363259/be80d9f1-b37c-4449-817f-30ae379dbc63)
 
-![Picture2](https://github.com/KAKADIYAS/House-roof-area-prediction/issues/2#issue-2168800859)
 
 ### Outcomes
 
