@@ -1,4 +1,4 @@
-# taskML
+# Computer Vision House roof area prediction using NN
 Task for U-Net image segmentation and masking
 Dataset      --> From Kaggle
 Architecture --> U-net
